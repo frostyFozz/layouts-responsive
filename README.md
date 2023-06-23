@@ -1,3 +1,3 @@
 # Proyecto Apeperia
 
-Practica con Css para manejar los  "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
+Practice with Css to handle the "Responsive Layouts: Working with mobile layouts", by Alura LATAM.
